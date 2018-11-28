@@ -1,2 +1,3 @@
 # hello-world
-My first repository. Used for future projects ideas.
+
+Hi, my name is Ed and I am learning to code in C#. Let's start using GitHub!
